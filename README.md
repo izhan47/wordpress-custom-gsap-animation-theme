@@ -1,6 +1,6 @@
 # WordPress Custom GSAP Theme
 
-![WordPress Custom GSAP Theme](gif.mp4)
+![WordPress Custom GSAP Theme](demo.gif)
 
 This WordPress theme is built with GSAP (GreenSock Animation Platform) to bring life to your website with smooth animations. It incorporates CSS, templates, and the Elementor Builder for a seamless and customizable experience.
 
@@ -26,7 +26,7 @@ This WordPress theme is built with GSAP (GreenSock Animation Platform) to bring 
 
 Check out the main theme animation in action:
 
-![WordPress Custom GSAP Theme Demo](gif.mp4)
+![WordPress Custom GSAP Theme Demo](demo.gif)
 
 ## Developer Information
 
